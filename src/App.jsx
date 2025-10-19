@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import './App.css'
 import Home from './pages/Home'
 import NotFound from './pages/NotFound'
+import { Toaster } from './components/ui/toaster'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>
+      <Toaster />
     </>
   )
 }
