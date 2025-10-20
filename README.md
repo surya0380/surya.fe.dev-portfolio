@@ -5,7 +5,7 @@ A modern, responsive portfolio website built with React and Tailwind CSS, featur
 ## Live Demo
 
 <!-- TODO: Add your deployed website URL here -->
-**🚀 [Live Website](https://your-portfolio-url.vercel.app)** - *Update this link after deployment*
+**🚀 [Live Website](https://surya-fe-dev-portfolio.vercel.app/#projects)**
 
 ## Features
 
